@@ -3,7 +3,7 @@
 
 
 ## ダウンロードの仕方について
-[リリース](https://github.com/MiRiFu/yw2-3gx/releases)からバージョンを選び下にある<ins>**Assets**</ins>をクリックしYW2_CTRPF_XXXでかつ拡張子がzipであるものをダウンロードするだけです。
+[リリース](https://github.com/MiRiFu/yw2-3gx/releases)からバージョンを選び下にある<ins>**Assets**</ins>をクリックしMuRuFu_YW3_VXXXでかつ拡張子がzipであるものをダウンロードするだけです。
 ## 利用方法について
 他のCTRPFと変わらずで特に特徴的なものはありません。
 
